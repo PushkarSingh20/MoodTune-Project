@@ -1,0 +1,5 @@
+opencv-python
+deepface
+spotipy
+python-dotenv
+streamlit
