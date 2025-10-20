@@ -1,4 +1,4 @@
-<h1 align="center">🎵 MoodTune — AI-Powered Mood Based Music Recommender</h1>
+<h1 align="center">🎵 MoodTune - AI-Powered Mood Based Music Recommender</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.10+-blue?logo=python" alt="Python">
@@ -12,19 +12,6 @@
   <b>Your face decides your next playlist... wild, right?</b><br>
   An AI-powered project that detects your mood in real-time using DeepFace + OpenCV<br>
   and instantly recommends Spotify playlists that match your vibe 🎧
-</p>
-
----
-
-## 🎥 Demo
-
-<p align="center">
-  <a href="Recording%202025-10-20%20144647.mp4">
-    <img src="https://img.shields.io/badge/▶️-Watch%20Demo-red?style=for-the-badge" alt="Watch Demo">
-  </a>
-</p>
-<p align="center">
-  <em>(Note: For the demo link to work, ensure the <code>Recording 2025-10-20 144647.mp4</code> file is uploaded to your repository.)</em>
 </p>
 
 ---
@@ -43,17 +30,34 @@
 
 | Category | Tools / Frameworks |
 |-----------|--------------------|
-| Programming Language | **Python 3.10+** 🐍 |
-| Computer Vision | **OpenCV** 🎥 |
-| Emotion Detection | **DeepFace (TensorFlow & Keras)** 🤖 |
-| Music Integration | **Spotify Web API + Spotipy** 🎧 |
-| GUI Framework | **Tkinter** 💻 |
+| Programming Language | **Python 3.10+**  |
+| Computer Vision | **OpenCV**  |
+| Emotion Detection | **DeepFace **  |
+| Music Integration | **Spotify Web API + Spotipy**  |
+| GUI Framework | **Tkinter**  |
 
 ---
 
-## ⚙️ Installation & Setup
+## 🧩 Project Workflow
 
-### 1️⃣ Clone the Repository
-```bash
-git clone [https://github.com/](https://github.com/)<your-username>/MoodTune.git
-cd MoodTune
+1.  **Capture Frame** → Webcam feed is opened using OpenCV.
+2.  **Emotion Detection** → DeepFace analyzes the current frame.
+3.  **Mood Mapping** → The emotion label (happy/sad/etc) is processed.
+4.  **Spotify API Search** → The app fetches playlists matching the mood.
+5.  **GUI Display** → Top recommended playlists are shown in the interface.
+
+---
+
+
+## 🧑‍💻 Author
+
+**Pushkar Singh**
+* 💼 BCA Student | Aspiring Data Scientist | AI & ML Enthusiast
+* [🔗 LinkedIn](https://www.linkedin.com/posts/pushkar-singh-512648235_python-ai-machinelearning-activity-7385974773329203201-c_GG)
+
+---
+
+## Atlast
+
+Fork it, fix it, push it, pull request it. Or just open an issue.
+All contributions are welcome... *even if it's just to tell me my code is trash.*
