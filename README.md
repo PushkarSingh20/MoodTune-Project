@@ -19,9 +19,7 @@
 ## 🎥 Demo
 
 <p align="center">
-  <a href="Recording%202025-10-20%20144647.mp4">
-    <img src="https://img.shields.io/badge/▶️-Watch%20Demo-red?style=for-the-badge" alt="Watch Demo">
-  </a>
+  <video src="Recording%202025-10-20%20144647.mp4" controls width="80%"></video>
 </p>
 
 ---
@@ -50,7 +48,6 @@
 
 ## ⚙️ Installation & Setup
 
-### 1️⃣ Clone the Repository
-```bash
+### 1️⃣ Clone the Repositorybash
 git clone https://github.com/<your-username>/MoodTune.git
 cd MoodTune
