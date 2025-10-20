@@ -18,9 +18,7 @@
 
 ## 🎥 Demo
 
-<p align="center">
-  <video src="Recording%202025-10-20%20144647.mp4" controls width="80%"></video>
-</p>
+Recording%202025-10-20%20144647.mp4
 
 ---
 
