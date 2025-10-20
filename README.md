@@ -18,7 +18,14 @@
 
 ## 🎥 Demo
 
-PASTE_YOUR_VIDEO_URL_FROM_STEP_1_HERE
+<p align="center">
+  <a href="Recording%202025-10-20%20144647.mp4">
+    <img src="https://img.shields.io/badge/▶️-Watch%20Demo-red?style=for-the-badge" alt="Watch Demo">
+  </a>
+</p>
+<p align="center">
+  <em>(Note: For the demo link to work, ensure the <code>Recording 2025-10-20 144647.mp4</code> file is uploaded to your repository.)</em>
+</p>
 
 ---
 
@@ -46,6 +53,7 @@ PASTE_YOUR_VIDEO_URL_FROM_STEP_1_HERE
 
 ## ⚙️ Installation & Setup
 
-### 1️⃣ Clone the Repositorybash
-git clone https://github.com/<your-username>/MoodTune.git
+### 1️⃣ Clone the Repository
+```bash
+git clone [https://github.com/](https://github.com/)<your-username>/MoodTune.git
 cd MoodTune
