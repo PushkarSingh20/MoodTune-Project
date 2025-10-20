@@ -18,7 +18,7 @@
 
 ## 🎥 Demo
 
-Recording%202025-10-20%20144647.mp4
+PASTE_YOUR_VIDEO_URL_FROM_STEP_1_HERE
 
 ---
 
