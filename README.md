@@ -52,8 +52,7 @@
 ## 🧑‍💻 Author
 
 **Pushkar Singh**
-* 💼 BCA Student | Aspiring Data Scientist | AI & ML Enthusiast
-* [🔗 LinkedIn](https://www.linkedin.com/posts/pushkar-singh-512648235_python-ai-machinelearning-activity-7385974773329203201-c_GG)
+[🔗 LinkedIn](https://www.linkedin.com/posts/pushkar-singh-512648235_python-ai-machinelearning-activity-7385974773329203201-c_GG)
 
 ---
 
